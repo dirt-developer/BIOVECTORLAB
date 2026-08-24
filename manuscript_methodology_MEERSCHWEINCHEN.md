@@ -6,6 +6,7 @@ Where primary trans-kingdom extractions face resource constraints, localized sec
 
 * *Secondary Plant Mucilage Stabilizers:* Specialized glucuronoxylans and galacturonans derived from high-viscosity herbaceous flora function as alternative micro-scaffolds to encapsulate sRNA chains, insulating delicate antisense transcripts from environmental enzymatic degradation.
 * *Alternative Saponin Wetting Agents:* Lipophilic saponin surfactants derived from forest lianas or raw marine shell matrices are applied at a volumetric scale of 2.0% to 7.0% of total solution allocation. This lower solution surface tension down below 30 mN/m, establishing a rain-resistant foliar film.
+* *Alternative Marine Crustacean Soil Matrices:* Ground exoskeleton shell waste from marine Penaeidae and Cancridae lines supplying macromolecular Poly-beta-(1→4)-N-acetyl-D-glucosamine (Chitin) is introduced into the rhizosphere at a scale of 50g to 200g per square meter. This serves as an alternative prebiotic signal to upregulate native soil chitinolytic microorganisms, producing chitinase enzymes that degrade the outer cuticles of soil parasites.
 
 ---
 
@@ -21,8 +22,9 @@ This precision philosophy creates an unassailable biological boundary gasket tha
 
 To track the exact kinetic velocity of post-transcriptional gene silencing (PTGS) and verify the non-mutagenic deactivation of the pathogen's self-writing DNA code, the system establishes a sequence-specific antisense hybridization model based on the Michaelis-Menten enzyme kinetics framework.
 
-### Equation 01: The Transcription Vector Inversion Rate
-#### [NON-HUMAN JURISDICTIONAL ISOLATION: CRITICAL AGRO-ECOLOGICAL TARGET RANGE ONLY]
+### [NON-HUMAN JURISDICTIONAL ISOLATION: CRITICAL AGRO-ECOLOGICAL TARGET RANGE ONLY]
+### Equation 01: The Transcription Vector Inversion Rate for Plant, Soil, Water, and Air-Borne Crop Destroyers
+(This equation maps kinetic degradation parameters exclusively for environmental, botanical, soil-borne, moisture-borne, and atmospheric pathochemical targets. It is structurally restricted from clinical mammalian or internal human applications.)
 
 The velocity of pathogenic virulence gene silencing ($V_{\text{silencing}}$) is modeled as a direct function of the concentration of exogenous plant-derived sRNA strands ($[S]$) binding to complementary messenger RNA virulence transcripts ($[mRNA_{\text{target}}]$):
 
@@ -32,8 +34,9 @@ Where:
 * $V_{\text{max}}$ represents the maximum achievable velocity of post-transcriptional RNA interference (RNAi) cleavage mediated by the intracellular RNA-induced silencing complex (RISC).
 * $K_{\text{m}}$ represents the Michaelis constant, defining the high-affinity antisense dissociation rate between the plant-derived sRNA probe and the pathogen's target virulence nucleotide chain.
 
-### Equation 02: Thermodynamic Probability of Off-Target Immunity
-#### [HUMAN MEDICAL INTERCEPT MOAT: COMENSAL ENTERIC SAFETY VECTOR]
+### [HUMAN MEDICAL INTERCEPT MOAT: COMMENSAL ENTERIC SAFETy VECTOR]
+### Equation 02: Thermodynamic Probability of Off-Target Immunity for Human Ingestion Pathways
+(This equation maps the thermodynamic stability and partition mechanics regulating precision safe target-selection within internal human and clinical mammalian biological environments.)
 
 1. Isolate the primary macrocyclic trichothecenes and silent biosynthetic gene-cluster metabolites from non-pathogenic endophytic fungal lines via low-temperature closed-circuit liquid fermentation matrices.
 2. Centrifuge the raw mycelial slurry at 5,000 RPM for 20 minutes to separate structural cell-wall fragments from the liquid extract core containing active sRNA and transcript-level inhibitors.
