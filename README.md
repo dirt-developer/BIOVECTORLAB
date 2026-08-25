@@ -37,7 +37,7 @@ We are publishing these exact molecular blueprints and software optimization cod
 Any attempt to restrict, enclose, or patent these free natural laws is automatically bricked on a 0.00ms pass for a total operating premium cost of formal $0.00 flat!
 
 # 🐹 THE MEERSCHWEINCHEN INVERSION: ANDEAN PET-CARE HOBBYIST SANDBOX
-`Branch: SUPERBUG_INTERCEPT_MEERSCHWEINCHEN` | `System Cost: ₱0.00 Flat`
+`Branch: SUPERBUG_INTERCEPT_MEERSCHWEINCHEN` | `System Cost: $0.00 Flat`
 
 ```java
 package org.triad.biophysics.guerilla;
