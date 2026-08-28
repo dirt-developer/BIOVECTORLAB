@@ -81,7 +81,7 @@ public final class MeerschweinchenPnaTranscompiler extends AbstractGuerillaNanot
                 
                 if (freeRadicalSurge > 0.0) {
                     // Activate the Ascorbate-Glutathione-Selenium Shield to crush immune necrosis
-                    AntioxidantSanctuary.injectCalamansiMists(5.0 /* mM */);
+                    AntioxidantSanctuary.injectMists(5.0 /* mM */);
                     AntioxidantSanctuary.overclockPeroxidaseLoops();
                 }
                 
