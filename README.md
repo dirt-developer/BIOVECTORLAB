@@ -69,7 +69,7 @@ public final class MeerschweinchenPnaTranscompiler extends AbstractGuerillaNanot
         try {
             // STEP 01: Extract the sequence-specific antisense pseudopeptide backbone templates
             PNAOligomerMatrix pnaShield = LipidNanoparticleEnclosure.capsulate(
-                PhytochemicalExtractor.harvestSaluyotMucilageSurfactants()
+                PhytochemicalExtractor.harvestMucilageSurfactants()
             );
             
             // STEP 02: Deploy target lock over the bacterial Shine-Dalgarno ribosome binding site
